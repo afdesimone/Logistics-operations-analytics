@@ -114,4 +114,5 @@ Planned extensions of this project include:
 ## Author
 **Anthony Desimone**  
 🔗 www.linkedin.com/in/anthonyfdesimone
+
 Data Analytics | SQL | Power BI | Data Modeling
