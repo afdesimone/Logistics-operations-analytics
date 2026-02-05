@@ -26,7 +26,7 @@ Operations teams often evaluate performance at the individual driver level under
 
 ## Analytical Approach
 - Defined the analytical question based on common operational assumptions around driver performance
-- Modeled and validated driver-level KPIs using SQL, including reusable views and CTEs
+- Designed a relational data model and created SQL views to standardize KPI definitions, using CTEs for ad-hoc analysis and validation
 - Visualized performance distributions, comparisons, and trends using Power BI
 
 ---
